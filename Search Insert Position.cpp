@@ -1,4 +1,5 @@
-//O(log n)
+//Time:  O(log n)
+//Space: O(1)
 
 class Solution {
 public:
